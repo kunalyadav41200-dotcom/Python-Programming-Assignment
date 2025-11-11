@@ -1,4 +1,4 @@
-# Name = Kunal Yadav , date = 28/10/2025
+# Name = Kunal Yadav , date = 28/10/2025,Roll no.=2501730146
 ''' Stay on top of your health goals with ease. This tool helps you track your daily calorie intake, monitor meals, and balance your nutrition throughout the day. Simply log what you eat, and we’ll calculate your total calories to help you stay within your target.
  Start tracking today and take control of your fitness journey! 💪'''
  # 🍎 Daily Calorie Tracker
@@ -44,3 +44,4 @@ print(f"Total:\t\t{total_calories}")
 print(f"Average:\t{average_calories:.2f}")
 
 print("\nThank you for using the Daily Calorie Tracker! 🥗")
+
